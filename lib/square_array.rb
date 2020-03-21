@@ -1,8 +1,9 @@
 def square_array(array)
-  numbers = [7,11,95]
-  square_array(numbers)
+  numbers = [1,2,3]
 
-  new numbers = [9,19,47]
+  while array[numbers]do
+    puts array[numbers]
+    square_root(numbers)
 
-  square_array(new_numbers)
+  end
 end
